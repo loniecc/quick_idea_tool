@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.loniecc.quickideatool.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.loniecc.quickideatool.MyBundle
 
 class MyApplicationService {
 
